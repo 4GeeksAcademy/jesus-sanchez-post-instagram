@@ -1,0 +1,53 @@
+body{
+
+background-color: black;
+
+}
+
+.post{
+
+
+ margin-left: auto;
+margin-right: auto;
+width: 400px;
+height: 700px;
+background-color: rgb(255, 255, 255);
+
+}
+
+.arriba{
+display: flex;
+justify-content: space-between;
+height: 5%;
+
+}
+
+.arriba-izquierda {
+
+display: flex;
+
+}
+
+.letras {
+display:flex;
+
+
+}
+
+.arriba img{
+
+width: 40px;
+margin-left: 0%;
+}
+
+.img{
+
+
+
+}
+
+.imagen img{
+
+width: 400px;
+
+}
