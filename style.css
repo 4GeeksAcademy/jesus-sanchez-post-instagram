@@ -28,11 +28,20 @@ display: flex;
 
 }
 
-.letras {
-display:flex;
+.arriba-derecha{
 
+    display: flex;
+    align-items: center;
+}
+
+.letras p{
+
+    margin: auto;
+    padding-left: 10px;
 
 }
+
+
 
 .arriba img{
 
@@ -40,14 +49,27 @@ width: 40px;
 margin-left: 0%;
 }
 
-.img{
 
-
-
-}
 
 .imagen img{
 
 width: 400px;
+
+}
+
+.abajo{
+    display: flex;
+}
+
+.abajo-derecha{
+
+    display: flex;
+    margin-left: 310px;
+
+}
+
+.usuario{
+
+margin-top: 15px;
 
 }
