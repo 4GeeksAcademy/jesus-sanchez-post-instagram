@@ -59,6 +59,7 @@ width: 400px;
 
 .abajo{
     display: flex;
+   margin-top: 10px;
 }
 
 .abajo-derecha{
@@ -70,6 +71,6 @@ width: 400px;
 
 .usuario{
 
-margin-top: 15px;
+margin-top: 10px;
 
 }
